@@ -9,7 +9,7 @@ title = "Camunda BPM 7.7.0-alpha2 Released"
 Camunda BPM platform 7.7.0-alpha2 is here and it is packed with new features. The highlights are:
 
 * Deploy Processes, Decisions and Cases from Cockpit
-* Automatic cleanup of historic data based on TTL ([docs](http://docs.camunda.org/manual/latest/user-guide/process-engine/history-cleanup/))
+* Automatic cleanup of historic data based on TTL ([docs](http://docs.camunda.org/manual/latest/user-guide/process-engine/history/#history-cleanup))
 * Process Instance Restart in API ([docs](http://docs.camunda.org/manual/latest/user-guide/process-engine/process-instance-restart/))
 * Additional Batch Operations in API (Modification, Restart and Set Retries for External Tasks) ([docs](http://docs.camunda.org/manual/latest/user-guide/process-engine/batch-operations/))
 * Support for PostgreSQL 9.6 and MySQL 5.7 ([docs](http://docs.camunda.org/manual/latest/introduction/supported-environments/))
